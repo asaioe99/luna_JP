@@ -3,7 +3,7 @@
 
 ![LUNA r0.2 side view](docs/images/board_readme_side.jpg)
 
-## LUNA Library
+## LUNA ライブラリ
 
 LUNA is a full toolkit for working with USB using FPGA technology; and provides hardware, gateware, and software to enable USB applications.
 
@@ -22,7 +22,7 @@ Some things you'll be able to use LUNA for in the future:
   backend for tools like [FaceDancer](https://github.com/usb-tools/facedancer); allowing easily
   emulation and rapid prototyping of compliant and non-compliant USB devices.
 
-## LUNA Hardware
+## LUNA ハードウェア
 
 The LUNA project also includes eponymous multi-tool hardware. This hardware isn't yet suited for end-users; but hardware development has reached a point where current-revision boards (r0.2+) make good development platforms for early community developers.
 
